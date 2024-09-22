@@ -41,23 +41,29 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: '',
-    appId: '',
-    messagingSenderId: '',
-    projectId: '',
+    apiKey: 'AIzaSyA1JueRXbjQ1Rs2AXfOqEs6TKtqnlN3F6I',
+    appId: '1:842613444516:android:6ad9f835de2f6a1fc13b31',
+    messagingSenderId: '842613444516',
+    projectId: 'fir-flutter-codelab-5c300',
+    storageBucket: 'fir-flutter-codelab-5c300.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: '',
-    appId: '',
-    messagingSenderId: '',
-    projectId: '',
+    apiKey: 'AIzaSyAnGcF2F8hbIfv3JW5B6M6wChlCVL3bUwI',
+    appId: '1:842613444516:ios:b339160c079bbe77c13b31',
+    messagingSenderId: '842613444516',
+    projectId: 'fir-flutter-codelab-5c300',
+    storageBucket: 'fir-flutter-codelab-5c300.appspot.com',
+    iosBundleId: 'com.example.gtkFlutter',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: '',
-    appId: '',
-    messagingSenderId: '',
-    projectId: '',
+    apiKey: 'AIzaSyAnGcF2F8hbIfv3JW5B6M6wChlCVL3bUwI',
+    appId: '1:842613444516:ios:b339160c079bbe77c13b31',
+    messagingSenderId: '842613444516',
+    projectId: 'fir-flutter-codelab-5c300',
+    storageBucket: 'fir-flutter-codelab-5c300.appspot.com',
+    iosBundleId: 'com.example.gtkFlutter',
   );
+
 }

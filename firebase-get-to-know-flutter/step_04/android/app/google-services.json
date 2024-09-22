@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842613444516",
+    "project_id": "fir-flutter-codelab-5c300",
+    "storage_bucket": "fir-flutter-codelab-5c300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842613444516:android:6ad9f835de2f6a1fc13b31",
+        "android_client_info": {
+          "package_name": "health.erinle.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JueRXbjQ1Rs2AXfOqEs6TKtqnlN3F6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
