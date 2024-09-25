@@ -1,6 +1,1 @@
-{
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  }
-}
+{"firestore":{"rules":"firestore.rules","indexes":"firestore.indexes.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"fir-flutter-codelab-5c300","appId":"1:842613444516:android:34f1bb82a7acb0c6c13b31","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"fir-flutter-codelab-5c300","appId":"1:842613444516:ios:81a289297257017ac13b31","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"macos":{"default":{"projectId":"fir-flutter-codelab-5c300","appId":"1:842613444516:ios:81a289297257017ac13b31","uploadDebugSymbols":false,"fileOutput":"macos/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"fir-flutter-codelab-5c300","configurations":{"android":"1:842613444516:android:34f1bb82a7acb0c6c13b31","ios":"1:842613444516:ios:81a289297257017ac13b31","macos":"1:842613444516:ios:81a289297257017ac13b31","web":"1:842613444516:web:edcd1f6241d5162ec13b31"}}}}}}

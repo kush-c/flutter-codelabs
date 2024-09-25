@@ -34,42 +34,42 @@ class DefaultFirebaseOptions {
   }
 
   // TODO (codelab user): Replace with your Firebase credentials
-  // Generate this file with credentials with the FlutterFire CLI
+
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'YOUR API KEY',
-    appId: 'YOUR APP ID',
-    messagingSenderId: '',
-    projectId: 'flutterfire-ui-codelab',
-    authDomain: 'flutterfire-ui-codelab.firebaseapp.com',
-    storageBucket: 'flutterfire-ui-codelab.appspot.com',
-    measurementId: 'MEASUREMENT ID',
+    apiKey: 'AIzaSyCJjymx6-9qME7HLj01xEwRvHUq5DlGOZg',
+    appId: '1:842613444516:web:edcd1f6241d5162ec13b31',
+    messagingSenderId: '842613444516',
+    projectId: 'fir-flutter-codelab-5c300',
+    authDomain: 'fir-flutter-codelab-5c300.firebaseapp.com',
+    storageBucket: 'fir-flutter-codelab-5c300.appspot.com',
   );
 
+  // Generate this file with credentials with the FlutterFire CLI
+
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'YOUR API KEY',
-    appId: 'YOUR APP ID',
-    messagingSenderId: '',
-    projectId: 'flutterfire-ui-codelab',
-    storageBucket: 'flutterfire-ui-codelab.appspot.com',
+    apiKey: 'AIzaSyA1JueRXbjQ1Rs2AXfOqEs6TKtqnlN3F6I',
+    appId: '1:842613444516:android:34f1bb82a7acb0c6c13b31',
+    messagingSenderId: '842613444516',
+    projectId: 'fir-flutter-codelab-5c300',
+    storageBucket: 'fir-flutter-codelab-5c300.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'YOUR API KEY',
-    appId: 'YOUR APP ID',
-    messagingSenderId: '',
-    projectId: 'flutterfire-ui-codelab',
-    storageBucket: 'flutterfire-ui-codelab.appspot.com',
-    iosClientId: 'IOS CLIENT ID',
-    iosBundleId: 'com.example.BUNDLE',
+    apiKey: 'AIzaSyAnGcF2F8hbIfv3JW5B6M6wChlCVL3bUwI',
+    appId: '1:842613444516:ios:81a289297257017ac13b31',
+    messagingSenderId: '842613444516',
+    projectId: 'fir-flutter-codelab-5c300',
+    storageBucket: 'fir-flutter-codelab-5c300.appspot.com',
+    iosBundleId: 'com.example.start',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'YOUR API KEY',
-    appId: 'YOUR APP ID',
-    messagingSenderId: '',
-    projectId: 'flutterfire-ui-codelab',
-    storageBucket: 'flutterfire-ui-codelab.appspot.com',
-    iosClientId: 'IOS CLIENT ID',
-    iosBundleId: 'com.example.BUNDLE',
+    apiKey: 'AIzaSyAnGcF2F8hbIfv3JW5B6M6wChlCVL3bUwI',
+    appId: '1:842613444516:ios:81a289297257017ac13b31',
+    messagingSenderId: '842613444516',
+    projectId: 'fir-flutter-codelab-5c300',
+    storageBucket: 'fir-flutter-codelab-5c300.appspot.com',
+    iosBundleId: 'com.example.start',
   );
+
 }
